@@ -30,6 +30,7 @@ This project analyzes passenger satisfaction for Dano Airlines, with the goal of
 6. Percentage Measures: The satisfaction rate represents the proportion of passengers who are satisfied, while the dissatisfaction rate reflects the passengers who are neutral or dissatisfied.
 7. Insights: Combining demographics, travel type, and arrival flight delay shows that delays for loyal business travelers and older passengers are the most critical areas to address. Minor delays have a smaller impact on first-time or younger travelers, suggesting targeted operational improvements can maximize impact.
 
+To interact with the live dashboard, click ![HERE](https://github.com/Hauwa-Ochimana/Airline-Passenger-Satisfaction-Analysis/blob/main/Airline%20Passenger%20Satisfaction%20Dashboard.pbix%20file.pbix)
 ### Conclusion
 The airline’s overall satisfaction rate is low (43%), with arrival flight delay (which is the same as departure flight delay) as the primary driver of dissatisfaction. Loyal, returning customers and older passengers are most affected, posing long-term retention risks. The analysis highlights key areas for operational improvement, loyalty programs, and customer focused interventions.
 
@@ -43,5 +44,8 @@ The airline’s overall satisfaction rate is low (43%), with arrival flight dela
 - Employee Training: Enhance crew training on handling delays and customer concerns to reduce negative experiences.
 
 
---- ### Contact Me:
+--- 
+
+
+### Contact Me:
 ![EMAIL](ochimanahauwa@gmail.com)
